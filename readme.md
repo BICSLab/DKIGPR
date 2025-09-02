@@ -1,4 +1,4 @@
-
+Identification of Nonlinear Dynamical Systems: When Deep Koopman Operator Meets Incremental Gaussian Process Regression.
 
 ## How to Use
 
@@ -14,7 +14,7 @@ It is recommended to use `conda` to create an isolated environment. Then, instal
 pip install -r requirements.txt
 ```
 
-Notes:
+## Notes
 
 Currently, the provided code is not fully complete, and we plan to further update and optimize it in future releases.
 
