@@ -19,3 +19,5 @@ Notes:
 Currently, the provided code is not fully complete, and we plan to further update and optimize it in future releases.
 
 To protect intellectual property and maintain confidentiality, certain parts of the code have been encrypted, so some implementation details are not directly accessible.
+
+If you have any questions, please feel free to contact me at lxp2013@163.com.
